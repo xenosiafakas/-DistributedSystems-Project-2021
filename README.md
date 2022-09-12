@@ -12,7 +12,7 @@ It is a file sharing application that utilizes many distributed nodes DHT. Every
 
  - Run ```python3 ToyNode_Linearizability.py``` for linearizability and the ip and the port that server replied before. 
  
- - Run ```python3 ToyNode_Eventual_Consistency.py```for linearizability consistency and give the ip and the port that server replied before. 
+ - Run ```python3 ToyNode_Eventual_Consistency.py```for eventual consistency and give the ip and the port that server replied before. 
 
  - Run ```python3 ToyChordServer_Cli.py```  and give the ip and the port that server replied before.
    (so as to make requests from server node)
